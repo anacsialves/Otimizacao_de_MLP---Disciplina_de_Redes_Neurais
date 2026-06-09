@@ -8,7 +8,7 @@ Este trabalho foi dividido em 4 notebooks. O primeiro notebook `0 - Introdução
 ## Como utilizar esse repositório?
 
 ### DataSet
-Para o funcionamento adequado dos notebooks, o arquivo `Dataset_Alzheimers_sep.xlsx` deve ser baixado na mesma pasta que os notebooks. Todas as informações mais essenciais sobre o dataset (como número de observações e atributos e estudo de origem) foram disponibilizadas no primeiro notebook `0 - A Rota da Neuromante - Análise do problema, discussão de resultados e conclusão`.
+Para o funcionamento adequado dos notebooks, o arquivo `Dataset_Alzheimers_sep.xlsx` deve ser baixado na mesma pasta que os notebooks. Todas as informações mais essenciais sobre o dataset (como número de observações e atributos e estudo de origem) foram disponibilizadas no primeiro notebook `0 - Introdução, resultados e conclusão`.
 
 ### `imports`
 Os seguintes módulos precisam ser instalados para o funcionamento adequado dos notebooks:
