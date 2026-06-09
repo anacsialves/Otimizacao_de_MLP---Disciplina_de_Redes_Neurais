@@ -3,7 +3,7 @@
 Neste repositório exploramos a otimização de uma rede neural tipo MLP para classificação binária. Ademais, é feita a comparação de seu desempenho com o de uma floresta aleatória e com o de uma MLP sem otimização.
 
 ## Organização do trabalho
-Este trabalho foi dividido em 4 notebooks. O primeiro notebook `0 - A Rota da Neuromante - Análise do problema, discussão de resultados e conclusão` apresenta o problema e discute os resultados obtidos. Os resultados discutidos são aqueles obtidos nos notebooks `1 - MLP sem otimização`, `2 - MLP com otimização` e `3 - Random Forest`, nos quais os modelos são construídos.
+Este trabalho foi dividido em 4 notebooks. O primeiro notebook `0 - Introdução, resultados e conclusão` apresenta o problema e discute os resultados obtidos. Os resultados discutidos são aqueles obtidos nos notebooks `1 - MLP sem otimização`, `2 - MLP com otimização` e `3 - Random Forest`, nos quais os modelos são construídos.
 
 ## Como utilizar esse repositório?
 
