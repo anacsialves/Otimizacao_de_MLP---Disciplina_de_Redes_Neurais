@@ -17,4 +17,6 @@ Os seguintes módulos precisam ser instalados para o funcionamento adequado dos 
 - torch
 - scikitlearn
 - matplotlib
-
+- seaborn
+- numpy
+- optuna
